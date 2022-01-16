@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/2-variablesDouble/bin/Debug/netcoreapp3.1/2-variablesDouble
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/2-variablesDouble/bin/Debug/netcoreapp3.1/2-variablesDouble.deps.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/2-variablesDouble/bin/Debug/netcoreapp3.1/2-variablesDouble.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/2-variablesDouble/bin/Debug/netcoreapp3.1/2-variablesDouble.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/2-variablesDouble/bin/Debug/netcoreapp3.1/2-variablesDouble.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/2-variablesDouble/bin/Debug/netcoreapp3.1/2-variablesDouble.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/2-variablesDouble/obj/Debug/netcoreapp3.1/2-variablesDouble.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/2-variablesDouble/obj/Debug/netcoreapp3.1/2-variablesDouble.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/2-variablesDouble/obj/Debug/netcoreapp3.1/2-variablesDouble.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/2-variablesDouble/obj/Debug/netcoreapp3.1/2-variablesDouble.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/2-variablesDouble/obj/Debug/netcoreapp3.1/2-variablesDouble.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/2-variablesDouble/obj/Debug/netcoreapp3.1/2-variablesDouble.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/2-variablesDouble/obj/Debug/netcoreapp3.1/2-variablesDouble.genruntimeconfig.cache

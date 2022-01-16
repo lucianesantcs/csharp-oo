@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/luciane/.dotnet/store/|arch|/|tfm|",
+      "/home/luciane/.nuget/packages"
+    ]
+  }
+}
