@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/6-attributionVariable/bin/Debug/netcoreapp3.1/6-attributionVariable
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/6-attributionVariable/bin/Debug/netcoreapp3.1/6-attributionVariable.deps.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/6-attributionVariable/bin/Debug/netcoreapp3.1/6-attributionVariable.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/6-attributionVariable/bin/Debug/netcoreapp3.1/6-attributionVariable.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/6-attributionVariable/bin/Debug/netcoreapp3.1/6-attributionVariable.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/6-attributionVariable/bin/Debug/netcoreapp3.1/6-attributionVariable.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/6-attributionVariable/obj/Debug/netcoreapp3.1/6-attributionVariable.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/6-attributionVariable/obj/Debug/netcoreapp3.1/6-attributionVariable.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/6-attributionVariable/obj/Debug/netcoreapp3.1/6-attributionVariable.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/6-attributionVariable/obj/Debug/netcoreapp3.1/6-attributionVariable.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/6-attributionVariable/obj/Debug/netcoreapp3.1/6-attributionVariable.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/6-attributionVariable/obj/Debug/netcoreapp3.1/6-attributionVariable.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/6-attributionVariable/obj/Debug/netcoreapp3.1/6-attributionVariable.genruntimeconfig.cache
