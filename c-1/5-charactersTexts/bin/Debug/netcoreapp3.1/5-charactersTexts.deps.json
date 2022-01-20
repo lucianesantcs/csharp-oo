@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "5-caracteresTextos/1.0.0": {
+      "5-charactersTexts/1.0.0": {
         "runtime": {
-          "5-caracteresTextos.dll": {}
+          "5-charactersTexts.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "5-caracteresTextos/1.0.0": {
+    "5-charactersTexts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

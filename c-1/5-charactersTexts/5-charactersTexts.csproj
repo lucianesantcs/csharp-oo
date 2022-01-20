@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_5_caracteresTextos</RootNamespace>
+    <RootNamespace>_5_charactersTexts</RootNamespace>
   </PropertyGroup>
 
 </Project>

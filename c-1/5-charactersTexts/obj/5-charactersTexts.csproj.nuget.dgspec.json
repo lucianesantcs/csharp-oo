@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-caracteresTextos/5-caracteresTextos.csproj": {}
+    "/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/5-charactersTexts.csproj": {}
   },
   "projects": {
-    "/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-caracteresTextos/5-caracteresTextos.csproj": {
+    "/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/5-charactersTexts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-caracteresTextos/5-caracteresTextos.csproj",
-        "projectName": "5-caracteresTextos",
-        "projectPath": "/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-caracteresTextos/5-caracteresTextos.csproj",
+        "projectUniqueName": "/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/5-charactersTexts.csproj",
+        "projectName": "5-charactersTexts",
+        "projectPath": "/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/5-charactersTexts.csproj",
         "packagesPath": "/home/luciane/.nuget/packages/",
-        "outputPath": "/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-caracteresTextos/obj/",
+        "outputPath": "/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/luciane/.nuget/NuGet/NuGet.Config"

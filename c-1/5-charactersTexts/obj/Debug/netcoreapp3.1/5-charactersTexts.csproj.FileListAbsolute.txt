@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/bin/Debug/netcoreapp3.1/5-charactersTexts
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/bin/Debug/netcoreapp3.1/5-charactersTexts.deps.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/bin/Debug/netcoreapp3.1/5-charactersTexts.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/bin/Debug/netcoreapp3.1/5-charactersTexts.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/bin/Debug/netcoreapp3.1/5-charactersTexts.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/bin/Debug/netcoreapp3.1/5-charactersTexts.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/obj/Debug/netcoreapp3.1/5-charactersTexts.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/obj/Debug/netcoreapp3.1/5-charactersTexts.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/obj/Debug/netcoreapp3.1/5-charactersTexts.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/obj/Debug/netcoreapp3.1/5-charactersTexts.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/obj/Debug/netcoreapp3.1/5-charactersTexts.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/obj/Debug/netcoreapp3.1/5-charactersTexts.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/5-charactersTexts/obj/Debug/netcoreapp3.1/5-charactersTexts.genruntimeconfig.cache

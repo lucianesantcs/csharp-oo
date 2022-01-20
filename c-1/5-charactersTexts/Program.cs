@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _5_caracteresTextos
+namespace _5_charactersTexts
 {
     class Program
     {
