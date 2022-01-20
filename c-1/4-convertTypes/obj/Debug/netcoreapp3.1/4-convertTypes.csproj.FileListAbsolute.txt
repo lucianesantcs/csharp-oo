@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/4-convertTypes/bin/Debug/netcoreapp3.1/4-convertTypes
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/4-convertTypes/bin/Debug/netcoreapp3.1/4-convertTypes.deps.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/4-convertTypes/bin/Debug/netcoreapp3.1/4-convertTypes.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/4-convertTypes/bin/Debug/netcoreapp3.1/4-convertTypes.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/4-convertTypes/bin/Debug/netcoreapp3.1/4-convertTypes.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/4-convertTypes/bin/Debug/netcoreapp3.1/4-convertTypes.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/4-convertTypes/obj/Debug/netcoreapp3.1/4-convertTypes.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/4-convertTypes/obj/Debug/netcoreapp3.1/4-convertTypes.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/4-convertTypes/obj/Debug/netcoreapp3.1/4-convertTypes.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/4-convertTypes/obj/Debug/netcoreapp3.1/4-convertTypes.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/4-convertTypes/obj/Debug/netcoreapp3.1/4-convertTypes.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/4-convertTypes/obj/Debug/netcoreapp3.1/4-convertTypes.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/4-convertTypes/obj/Debug/netcoreapp3.1/4-convertTypes.genruntimeconfig.cache
