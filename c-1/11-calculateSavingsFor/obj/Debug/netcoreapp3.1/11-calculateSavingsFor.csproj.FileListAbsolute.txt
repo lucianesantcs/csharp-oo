@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/11-calculateSavingsFor/bin/Debug/netcoreapp3.1/11-calculateSavingsFor
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/11-calculateSavingsFor/bin/Debug/netcoreapp3.1/11-calculateSavingsFor.deps.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/11-calculateSavingsFor/bin/Debug/netcoreapp3.1/11-calculateSavingsFor.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/11-calculateSavingsFor/bin/Debug/netcoreapp3.1/11-calculateSavingsFor.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/11-calculateSavingsFor/bin/Debug/netcoreapp3.1/11-calculateSavingsFor.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/11-calculateSavingsFor/bin/Debug/netcoreapp3.1/11-calculateSavingsFor.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/11-calculateSavingsFor/obj/Debug/netcoreapp3.1/11-calculateSavingsFor.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/11-calculateSavingsFor/obj/Debug/netcoreapp3.1/11-calculateSavingsFor.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/11-calculateSavingsFor/obj/Debug/netcoreapp3.1/11-calculateSavingsFor.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/11-calculateSavingsFor/obj/Debug/netcoreapp3.1/11-calculateSavingsFor.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/11-calculateSavingsFor/obj/Debug/netcoreapp3.1/11-calculateSavingsFor.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/11-calculateSavingsFor/obj/Debug/netcoreapp3.1/11-calculateSavingsFor.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/11-calculateSavingsFor/obj/Debug/netcoreapp3.1/11-calculateSavingsFor.genruntimeconfig.cache
