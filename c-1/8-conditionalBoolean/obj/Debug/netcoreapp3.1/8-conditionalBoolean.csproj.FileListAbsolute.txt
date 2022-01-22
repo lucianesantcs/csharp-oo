@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/8-conditionalBoolean/bin/Debug/netcoreapp3.1/8-conditionalBoolean
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/8-conditionalBoolean/bin/Debug/netcoreapp3.1/8-conditionalBoolean.deps.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/8-conditionalBoolean/bin/Debug/netcoreapp3.1/8-conditionalBoolean.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/8-conditionalBoolean/bin/Debug/netcoreapp3.1/8-conditionalBoolean.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/8-conditionalBoolean/bin/Debug/netcoreapp3.1/8-conditionalBoolean.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/8-conditionalBoolean/bin/Debug/netcoreapp3.1/8-conditionalBoolean.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/8-conditionalBoolean/obj/Debug/netcoreapp3.1/8-conditionalBoolean.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/8-conditionalBoolean/obj/Debug/netcoreapp3.1/8-conditionalBoolean.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/8-conditionalBoolean/obj/Debug/netcoreapp3.1/8-conditionalBoolean.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/8-conditionalBoolean/obj/Debug/netcoreapp3.1/8-conditionalBoolean.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/8-conditionalBoolean/obj/Debug/netcoreapp3.1/8-conditionalBoolean.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/8-conditionalBoolean/obj/Debug/netcoreapp3.1/8-conditionalBoolean.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/8-conditionalBoolean/obj/Debug/netcoreapp3.1/8-conditionalBoolean.genruntimeconfig.cache
