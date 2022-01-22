@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/10-calculateSavingsWhile/bin/Debug/netcoreapp3.1/10-calculateSavingsWhile
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/10-calculateSavingsWhile/bin/Debug/netcoreapp3.1/10-calculateSavingsWhile.deps.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/10-calculateSavingsWhile/bin/Debug/netcoreapp3.1/10-calculateSavingsWhile.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/10-calculateSavingsWhile/bin/Debug/netcoreapp3.1/10-calculateSavingsWhile.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/10-calculateSavingsWhile/bin/Debug/netcoreapp3.1/10-calculateSavingsWhile.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/10-calculateSavingsWhile/bin/Debug/netcoreapp3.1/10-calculateSavingsWhile.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/10-calculateSavingsWhile/obj/Debug/netcoreapp3.1/10-calculateSavingsWhile.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/10-calculateSavingsWhile/obj/Debug/netcoreapp3.1/10-calculateSavingsWhile.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/10-calculateSavingsWhile/obj/Debug/netcoreapp3.1/10-calculateSavingsWhile.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/10-calculateSavingsWhile/obj/Debug/netcoreapp3.1/10-calculateSavingsWhile.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/10-calculateSavingsWhile/obj/Debug/netcoreapp3.1/10-calculateSavingsWhile.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/10-calculateSavingsWhile/obj/Debug/netcoreapp3.1/10-calculateSavingsWhile.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/10-calculateSavingsWhile/obj/Debug/netcoreapp3.1/10-calculateSavingsWhile.genruntimeconfig.cache
