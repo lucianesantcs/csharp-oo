@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/14-multiplicationTable/bin/Debug/netcoreapp3.1/14-multiplicationTable
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/14-multiplicationTable/bin/Debug/netcoreapp3.1/14-multiplicationTable.deps.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/14-multiplicationTable/bin/Debug/netcoreapp3.1/14-multiplicationTable.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/14-multiplicationTable/bin/Debug/netcoreapp3.1/14-multiplicationTable.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/14-multiplicationTable/bin/Debug/netcoreapp3.1/14-multiplicationTable.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/14-multiplicationTable/bin/Debug/netcoreapp3.1/14-multiplicationTable.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/14-multiplicationTable/obj/Debug/netcoreapp3.1/14-multiplicationTable.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/14-multiplicationTable/obj/Debug/netcoreapp3.1/14-multiplicationTable.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/14-multiplicationTable/obj/Debug/netcoreapp3.1/14-multiplicationTable.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/14-multiplicationTable/obj/Debug/netcoreapp3.1/14-multiplicationTable.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/14-multiplicationTable/obj/Debug/netcoreapp3.1/14-multiplicationTable.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/14-multiplicationTable/obj/Debug/netcoreapp3.1/14-multiplicationTable.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/14-multiplicationTable/obj/Debug/netcoreapp3.1/14-multiplicationTable.genruntimeconfig.cache
