@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/13-chainedFor/bin/Debug/netcoreapp3.1/13-chainedFor
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/13-chainedFor/bin/Debug/netcoreapp3.1/13-chainedFor.deps.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/13-chainedFor/bin/Debug/netcoreapp3.1/13-chainedFor.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/13-chainedFor/bin/Debug/netcoreapp3.1/13-chainedFor.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/13-chainedFor/bin/Debug/netcoreapp3.1/13-chainedFor.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/13-chainedFor/bin/Debug/netcoreapp3.1/13-chainedFor.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/13-chainedFor/obj/Debug/netcoreapp3.1/13-chainedFor.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/13-chainedFor/obj/Debug/netcoreapp3.1/13-chainedFor.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/13-chainedFor/obj/Debug/netcoreapp3.1/13-chainedFor.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/13-chainedFor/obj/Debug/netcoreapp3.1/13-chainedFor.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/13-chainedFor/obj/Debug/netcoreapp3.1/13-chainedFor.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/13-chainedFor/obj/Debug/netcoreapp3.1/13-chainedFor.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/13-chainedFor/obj/Debug/netcoreapp3.1/13-chainedFor.genruntimeconfig.cache
