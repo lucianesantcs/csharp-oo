@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/9-scope/bin/Debug/netcoreapp3.1/9-scope
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/9-scope/bin/Debug/netcoreapp3.1/9-scope.deps.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/9-scope/bin/Debug/netcoreapp3.1/9-scope.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/9-scope/bin/Debug/netcoreapp3.1/9-scope.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/9-scope/bin/Debug/netcoreapp3.1/9-scope.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/9-scope/bin/Debug/netcoreapp3.1/9-scope.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/9-scope/obj/Debug/netcoreapp3.1/9-scope.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/9-scope/obj/Debug/netcoreapp3.1/9-scope.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/9-scope/obj/Debug/netcoreapp3.1/9-scope.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/9-scope/obj/Debug/netcoreapp3.1/9-scope.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/9-scope/obj/Debug/netcoreapp3.1/9-scope.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/9-scope/obj/Debug/netcoreapp3.1/9-scope.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/9-scope/obj/Debug/netcoreapp3.1/9-scope.genruntimeconfig.cache
