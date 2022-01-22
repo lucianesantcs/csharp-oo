@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/12-calculateLongTermSavings/bin/Debug/netcoreapp3.1/12-calculateLongTermSavings
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/12-calculateLongTermSavings/bin/Debug/netcoreapp3.1/12-calculateLongTermSavings.deps.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/12-calculateLongTermSavings/bin/Debug/netcoreapp3.1/12-calculateLongTermSavings.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/12-calculateLongTermSavings/bin/Debug/netcoreapp3.1/12-calculateLongTermSavings.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/12-calculateLongTermSavings/bin/Debug/netcoreapp3.1/12-calculateLongTermSavings.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/12-calculateLongTermSavings/bin/Debug/netcoreapp3.1/12-calculateLongTermSavings.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/12-calculateLongTermSavings/obj/Debug/netcoreapp3.1/12-calculateLongTermSavings.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/12-calculateLongTermSavings/obj/Debug/netcoreapp3.1/12-calculateLongTermSavings.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/12-calculateLongTermSavings/obj/Debug/netcoreapp3.1/12-calculateLongTermSavings.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/12-calculateLongTermSavings/obj/Debug/netcoreapp3.1/12-calculateLongTermSavings.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/12-calculateLongTermSavings/obj/Debug/netcoreapp3.1/12-calculateLongTermSavings.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/12-calculateLongTermSavings/obj/Debug/netcoreapp3.1/12-calculateLongTermSavings.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/12-calculateLongTermSavings/obj/Debug/netcoreapp3.1/12-calculateLongTermSavings.genruntimeconfig.cache
