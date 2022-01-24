@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/15-multiples3/bin/Debug/netcoreapp3.1/15-multiples3
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/15-multiples3/bin/Debug/netcoreapp3.1/15-multiples3.deps.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/15-multiples3/bin/Debug/netcoreapp3.1/15-multiples3.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/15-multiples3/bin/Debug/netcoreapp3.1/15-multiples3.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/15-multiples3/bin/Debug/netcoreapp3.1/15-multiples3.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/15-multiples3/bin/Debug/netcoreapp3.1/15-multiples3.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/15-multiples3/obj/Debug/netcoreapp3.1/15-multiples3.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/15-multiples3/obj/Debug/netcoreapp3.1/15-multiples3.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/15-multiples3/obj/Debug/netcoreapp3.1/15-multiples3.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/15-multiples3/obj/Debug/netcoreapp3.1/15-multiples3.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/15-multiples3/obj/Debug/netcoreapp3.1/15-multiples3.dll
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/15-multiples3/obj/Debug/netcoreapp3.1/15-multiples3.pdb
+/home/luciane/www/alura-/meus planos/dotnet/csharp-orientacao-objetos/c-1/15-multiples3/obj/Debug/netcoreapp3.1/15-multiples3.genruntimeconfig.cache
