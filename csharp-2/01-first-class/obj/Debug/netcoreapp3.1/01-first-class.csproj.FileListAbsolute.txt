@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/01-first-class/bin/Debug/netcoreapp3.1/01-first-class
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/01-first-class/bin/Debug/netcoreapp3.1/01-first-class.deps.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/01-first-class/bin/Debug/netcoreapp3.1/01-first-class.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/01-first-class/bin/Debug/netcoreapp3.1/01-first-class.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/01-first-class/bin/Debug/netcoreapp3.1/01-first-class.dll
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/01-first-class/bin/Debug/netcoreapp3.1/01-first-class.pdb
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/01-first-class/obj/Debug/netcoreapp3.1/01-first-class.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/01-first-class/obj/Debug/netcoreapp3.1/01-first-class.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/01-first-class/obj/Debug/netcoreapp3.1/01-first-class.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/01-first-class/obj/Debug/netcoreapp3.1/01-first-class.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/01-first-class/obj/Debug/netcoreapp3.1/01-first-class.dll
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/01-first-class/obj/Debug/netcoreapp3.1/01-first-class.pdb
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/01-first-class/obj/Debug/netcoreapp3.1/01-first-class.genruntimeconfig.cache
