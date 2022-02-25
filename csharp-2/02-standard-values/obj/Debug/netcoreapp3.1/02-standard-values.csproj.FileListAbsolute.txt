@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/02-standard-values/bin/Debug/netcoreapp3.1/02-standard-values
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/02-standard-values/bin/Debug/netcoreapp3.1/02-standard-values.deps.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/02-standard-values/bin/Debug/netcoreapp3.1/02-standard-values.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/02-standard-values/bin/Debug/netcoreapp3.1/02-standard-values.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/02-standard-values/bin/Debug/netcoreapp3.1/02-standard-values.dll
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/02-standard-values/bin/Debug/netcoreapp3.1/02-standard-values.pdb
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/02-standard-values/obj/Debug/netcoreapp3.1/02-standard-values.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/02-standard-values/obj/Debug/netcoreapp3.1/02-standard-values.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/02-standard-values/obj/Debug/netcoreapp3.1/02-standard-values.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/02-standard-values/obj/Debug/netcoreapp3.1/02-standard-values.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/02-standard-values/obj/Debug/netcoreapp3.1/02-standard-values.dll
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/02-standard-values/obj/Debug/netcoreapp3.1/02-standard-values.pdb
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/02-standard-values/obj/Debug/netcoreapp3.1/02-standard-values.genruntimeconfig.cache
