@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/04-functions/bin/Debug/netcoreapp3.1/04-functions
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/04-functions/bin/Debug/netcoreapp3.1/04-functions.deps.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/04-functions/bin/Debug/netcoreapp3.1/04-functions.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/04-functions/bin/Debug/netcoreapp3.1/04-functions.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/04-functions/bin/Debug/netcoreapp3.1/04-functions.dll
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/04-functions/bin/Debug/netcoreapp3.1/04-functions.pdb
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/04-functions/obj/Debug/netcoreapp3.1/04-functions.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/04-functions/obj/Debug/netcoreapp3.1/04-functions.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/04-functions/obj/Debug/netcoreapp3.1/04-functions.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/04-functions/obj/Debug/netcoreapp3.1/04-functions.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/04-functions/obj/Debug/netcoreapp3.1/04-functions.dll
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/04-functions/obj/Debug/netcoreapp3.1/04-functions.pdb
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/04-functions/obj/Debug/netcoreapp3.1/04-functions.genruntimeconfig.cache
