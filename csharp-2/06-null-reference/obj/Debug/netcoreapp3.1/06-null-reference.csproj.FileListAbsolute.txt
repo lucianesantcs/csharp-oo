@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/06-null-reference/bin/Debug/netcoreapp3.1/06-null-reference
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/06-null-reference/bin/Debug/netcoreapp3.1/06-null-reference.deps.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/06-null-reference/bin/Debug/netcoreapp3.1/06-null-reference.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/06-null-reference/bin/Debug/netcoreapp3.1/06-null-reference.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/06-null-reference/bin/Debug/netcoreapp3.1/06-null-reference.dll
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/06-null-reference/bin/Debug/netcoreapp3.1/06-null-reference.pdb
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/06-null-reference/obj/Debug/netcoreapp3.1/06-null-reference.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/06-null-reference/obj/Debug/netcoreapp3.1/06-null-reference.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/06-null-reference/obj/Debug/netcoreapp3.1/06-null-reference.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/06-null-reference/obj/Debug/netcoreapp3.1/06-null-reference.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/06-null-reference/obj/Debug/netcoreapp3.1/06-null-reference.dll
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/06-null-reference/obj/Debug/netcoreapp3.1/06-null-reference.pdb
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/06-null-reference/obj/Debug/netcoreapp3.1/06-null-reference.genruntimeconfig.cache

@@ -1,0 +1,42 @@
+// using _05_namespaces;
+
+namespace Client
+{
+  public class ContaCorrente
+  {
+    public Client titular;
+    public int numeroAgencia;
+    public int numero;
+    public double saldo = 100;
+
+    public bool Sacar(double valor)
+    {
+      if (this.saldo < valor)
+      {
+        return false;
+      }
+
+      this.saldo -= valor;
+      return true;
+    }
+
+    public void Depositar(double valor)
+    {
+      this.saldo += valor;
+    }
+
+    public bool Transferir(double valor, ContaCorrente contaDestino)
+    {
+      if (this.saldo < valor)
+      {
+        return false;
+      }
+
+      this.saldo -= valor;
+      // contaDestino.saldo += valor;
+      contaDestino.Depositar(valor);
+      return true;
+    }
+
+  }
+}
