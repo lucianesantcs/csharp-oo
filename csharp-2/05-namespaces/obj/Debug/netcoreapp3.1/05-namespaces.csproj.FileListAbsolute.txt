@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/05-namespaces/bin/Debug/netcoreapp3.1/05-namespaces
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/05-namespaces/bin/Debug/netcoreapp3.1/05-namespaces.deps.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/05-namespaces/bin/Debug/netcoreapp3.1/05-namespaces.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/05-namespaces/bin/Debug/netcoreapp3.1/05-namespaces.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/05-namespaces/bin/Debug/netcoreapp3.1/05-namespaces.dll
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/05-namespaces/bin/Debug/netcoreapp3.1/05-namespaces.pdb
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/05-namespaces/obj/Debug/netcoreapp3.1/05-namespaces.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/05-namespaces/obj/Debug/netcoreapp3.1/05-namespaces.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/05-namespaces/obj/Debug/netcoreapp3.1/05-namespaces.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/05-namespaces/obj/Debug/netcoreapp3.1/05-namespaces.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/05-namespaces/obj/Debug/netcoreapp3.1/05-namespaces.dll
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/05-namespaces/obj/Debug/netcoreapp3.1/05-namespaces.pdb
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/05-namespaces/obj/Debug/netcoreapp3.1/05-namespaces.genruntimeconfig.cache
