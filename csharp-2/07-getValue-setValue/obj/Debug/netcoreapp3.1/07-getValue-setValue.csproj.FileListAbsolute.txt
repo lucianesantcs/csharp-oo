@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/07-getValue-setValue/bin/Debug/netcoreapp3.1/07-getValue-setValue
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/07-getValue-setValue/bin/Debug/netcoreapp3.1/07-getValue-setValue.deps.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/07-getValue-setValue/bin/Debug/netcoreapp3.1/07-getValue-setValue.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/07-getValue-setValue/bin/Debug/netcoreapp3.1/07-getValue-setValue.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/07-getValue-setValue/bin/Debug/netcoreapp3.1/07-getValue-setValue.dll
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/07-getValue-setValue/bin/Debug/netcoreapp3.1/07-getValue-setValue.pdb
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/07-getValue-setValue/obj/Debug/netcoreapp3.1/07-getValue-setValue.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/07-getValue-setValue/obj/Debug/netcoreapp3.1/07-getValue-setValue.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/07-getValue-setValue/obj/Debug/netcoreapp3.1/07-getValue-setValue.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/07-getValue-setValue/obj/Debug/netcoreapp3.1/07-getValue-setValue.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/07-getValue-setValue/obj/Debug/netcoreapp3.1/07-getValue-setValue.dll
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/07-getValue-setValue/obj/Debug/netcoreapp3.1/07-getValue-setValue.pdb
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/07-getValue-setValue/obj/Debug/netcoreapp3.1/07-getValue-setValue.genruntimeconfig.cache
