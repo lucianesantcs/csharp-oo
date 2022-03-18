@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/08-constructors/obj/Debug/netcoreapp3.1/08-constructors.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/08-constructors/obj/Debug/netcoreapp3.1/08-constructors.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/08-constructors/obj/Debug/netcoreapp3.1/08-constructors.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/08-constructors/obj/Debug/netcoreapp3.1/08-constructors.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/08-constructors/bin/Debug/netcoreapp3.1/08-constructors
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/08-constructors/bin/Debug/netcoreapp3.1/08-constructors.deps.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/08-constructors/bin/Debug/netcoreapp3.1/08-constructors.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/08-constructors/bin/Debug/netcoreapp3.1/08-constructors.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/08-constructors/bin/Debug/netcoreapp3.1/08-constructors.dll
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/08-constructors/bin/Debug/netcoreapp3.1/08-constructors.pdb
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/08-constructors/obj/Debug/netcoreapp3.1/08-constructors.dll
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/08-constructors/obj/Debug/netcoreapp3.1/08-constructors.pdb
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-2/08-constructors/obj/Debug/netcoreapp3.1/08-constructors.genruntimeconfig.cache
