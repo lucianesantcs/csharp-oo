@@ -22,6 +22,7 @@ namespace ByteBank
 
             Console.WriteLine(carlos.GetBonificacao());
             Console.WriteLine(roberta.GetBonificacao());
+            Console.WriteLine(gerenciador.GetTotalBonificacao());
         }
     }
 }

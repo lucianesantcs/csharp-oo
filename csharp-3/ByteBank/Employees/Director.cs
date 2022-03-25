@@ -1,12 +1,8 @@
 namespace ByteBank
 {
-  public class Director
+  public class Director: Employee
   {
-    public string Nome { get; set; }
-    public string CPF { get; set; }
-    public double Salario { get; set; }
-
-    public double GetBonificacao()
+    public override double GetBonificacao()
     {
       return Salario;
     }

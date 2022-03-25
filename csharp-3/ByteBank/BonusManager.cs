@@ -8,11 +8,6 @@ namespace ByteBank
       totalBonificacao += funcionario.GetBonificacao();
     }
 
-    public void Registrar(Director diretor) 
-    {
-      totalBonificacao += diretor.GetBonificacao();
-    }
-
     public double GetTotalBonificacao()
     {
       return totalBonificacao;
