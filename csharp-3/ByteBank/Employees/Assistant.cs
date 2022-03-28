@@ -1,18 +1,18 @@
 namespace ByteBank
 {
-  public class Director: Employee
+  public class Assistant: Employee
   {
-    public Director(string cpf): base(5000, cpf) 
+    public Assistant(string cpf): base(2000, cpf) 
     {
       // 
     }
     public override void AumentarSalario()
     {
-      Salario *= 1.15;
+      Salario *= 1.1;
     }
     public override double GetBonificacao()
     {
-      return Salario * 0.5;
+      return Salario * 0.2;
     }
   }
 }

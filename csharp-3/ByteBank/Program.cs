@@ -6,24 +6,30 @@ namespace ByteBank
     {
         static void Main(string[] args)
         {
+            CalcularBonificacao();
+        }
+
+        public static void CalcularBonificacao()
+        {
             BonusManager gerenciador = new BonusManager();
 
-            Employee carlos = new Employee(2000, "546.879.157-20");
-            carlos.Nome = "Carlos";
-            // carlos.Salario = 2000;
-            gerenciador.Registrar(carlos);
-            carlos.AumentarSalario();
-            
-            Console.WriteLine("Salario carlos " + carlos.Salario);
-            
-            Director roberta = new Director("454.658.148-3");
-            roberta.Nome = "Roberta";
-            // roberta.Salario = 5000;
-            gerenciador.Registrar(roberta);
+            Employee pedro = new Designer("833.222.048-39");
+            pedro.Nome = "Pedro";
 
-            Employee robertaTeste = roberta;
-            roberta.AumentarSalario();
-            Console.WriteLine("Salario roberta " + roberta.Salario);
+            Employee roberta = new Director("159.753.398-04");
+            roberta.Nome = "Roberta";
+
+            Employee igor = new Assistant("981.198.778-53");
+
+            Employee camila = new AccountManager("326.985.628-89");
+            camila.Nome = "Camila";
+
+            gerenciador.Registrar(pedro);
+            gerenciador.Registrar(roberta);
+            gerenciador.Registrar(igor);
+            gerenciador.Registrar(camila);
+
+            Console.WriteLine("Total bon " + gerenciador.GetTotalBonificacao());
         }
     }
 }
