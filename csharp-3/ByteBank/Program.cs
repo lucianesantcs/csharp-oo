@@ -8,20 +8,22 @@ namespace ByteBank
         {
             BonusManager gerenciador = new BonusManager();
 
-            Employee carlos = new Employee("546.879.157-20");
+            Employee carlos = new Employee(2000, "546.879.157-20");
             carlos.Nome = "Carlos";
-            // carlos.CPF = "546.879.157-20";
-            carlos.Salario = 2000;
+            // carlos.Salario = 2000;
             gerenciador.Registrar(carlos);
+            carlos.AumentarSalario();
+            
+            Console.WriteLine("Salario carlos " + carlos.Salario);
             
             Director roberta = new Director("454.658.148-3");
             roberta.Nome = "Roberta";
-            // roberta.CPF = "454.658.148-3";
-            roberta.Salario = 5000;
+            // roberta.Salario = 5000;
             gerenciador.Registrar(roberta);
 
-            Console.WriteLine(carlos.CPF);
-            Console.WriteLine(roberta.CPF);
+            Employee robertaTeste = roberta;
+            roberta.AumentarSalario();
+            Console.WriteLine("Salario roberta " + roberta.Salario);
         }
     }
 }
