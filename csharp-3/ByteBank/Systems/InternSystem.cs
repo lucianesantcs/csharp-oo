@@ -4,7 +4,7 @@ namespace ByteBank
 {
   public class InternSystem
   {
-    public bool Logar(Autenticable funcionario, string senha)
+    public bool Logar(IAutenticable funcionario, string senha)
     {
       bool usuarioAutenticado = funcionario.Autenticar(senha);
 

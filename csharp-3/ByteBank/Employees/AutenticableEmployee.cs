@@ -2,12 +2,12 @@ using System;
 
 namespace ByteBank
 {
-  public abstract class Autenticable: Employee
+  public abstract class AutenticableEmployee: Employee, IAutenticable
   {
     public string Senha { get; set; }
-    public Autenticable(double salario, string cpf): base(salario, cpf)
+    public AutenticableEmployee(double salary, string cpf) : base(salary, cpf)
     {
-      //
+      // 
     }
     public bool Autenticar(string senha)
     {

@@ -20,7 +20,11 @@ namespace ByteBank
             AccountManager camila = new AccountManager("326.985.628-89");
             camila.Nome = "Camila";
             camila.Senha = "abc";
+            
+            TradingPartner parceiro = new TradingPartner();
+            parceiro.Senha = "123456";
 
+            sistemaInterno.Logar(parceiro, "123456");
             sistemaInterno.Logar(roberta, "123");
             sistemaInterno.Logar(camila, "abc");
         }
