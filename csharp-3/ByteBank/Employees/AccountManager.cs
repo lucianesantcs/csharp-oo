@@ -1,6 +1,6 @@
 namespace ByteBank
 {
-  public class AccountManager: Employee
+  public class AccountManager: Autenticable
   {
     public AccountManager(string cpf): base(4000, cpf) 
     {

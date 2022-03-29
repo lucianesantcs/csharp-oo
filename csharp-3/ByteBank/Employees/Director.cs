@@ -1,6 +1,6 @@
 namespace ByteBank
 {
-  public class Director: Employee
+  public class Director: Autenticable
   {
     public Director(string cpf): base(5000, cpf) 
     {

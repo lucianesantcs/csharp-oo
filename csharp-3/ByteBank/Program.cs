@@ -6,7 +6,23 @@ namespace ByteBank
     {
         static void Main(string[] args)
         {
-            CalcularBonificacao();
+            // CalcularBonificacao();
+            UsarSistema();
+        }
+
+        public static void UsarSistema()
+        {
+            InternSystem sistemaInterno = new InternSystem();
+            Director roberta = new Director("159.753.398-04");
+            roberta.Nome = "Roberta";
+            roberta.Senha = "123";
+
+            AccountManager camila = new AccountManager("326.985.628-89");
+            camila.Nome = "Camila";
+            camila.Senha = "abc";
+
+            sistemaInterno.Logar(roberta, "123");
+            sistemaInterno.Logar(camila, "abc");
         }
 
         public static void CalcularBonificacao()
