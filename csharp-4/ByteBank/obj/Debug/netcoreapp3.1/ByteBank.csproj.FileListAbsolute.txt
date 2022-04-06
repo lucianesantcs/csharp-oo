@@ -1,0 +1,13 @@
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/bin/Debug/netcoreapp3.1/ByteBank
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/bin/Debug/netcoreapp3.1/ByteBank.deps.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/bin/Debug/netcoreapp3.1/ByteBank.runtimeconfig.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/bin/Debug/netcoreapp3.1/ByteBank.runtimeconfig.dev.json
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/bin/Debug/netcoreapp3.1/ByteBank.dll
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/bin/Debug/netcoreapp3.1/ByteBank.pdb
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/obj/Debug/netcoreapp3.1/ByteBank.csprojAssemblyReference.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/obj/Debug/netcoreapp3.1/ByteBank.AssemblyInfoInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/obj/Debug/netcoreapp3.1/ByteBank.AssemblyInfo.cs
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/obj/Debug/netcoreapp3.1/ByteBank.csproj.CoreCompileInputs.cache
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/obj/Debug/netcoreapp3.1/ByteBank.dll
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/obj/Debug/netcoreapp3.1/ByteBank.pdb
+/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/obj/Debug/netcoreapp3.1/ByteBank.genruntimeconfig.cache
