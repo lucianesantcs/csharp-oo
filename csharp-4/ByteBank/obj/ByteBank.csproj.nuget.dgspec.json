@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/ByteBank.csproj": {}
+    "/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/ByteBank/ByteBank.csproj": {}
   },
   "projects": {
-    "/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/ByteBank.csproj": {
+    "/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/ByteBank/ByteBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/ByteBank.csproj",
+        "projectUniqueName": "/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/ByteBank/ByteBank.csproj",
         "projectName": "ByteBank",
-        "projectPath": "/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/ByteBank.csproj",
+        "projectPath": "/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/ByteBank/ByteBank.csproj",
         "packagesPath": "/home/luciane/.nuget/packages/",
-        "outputPath": "/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/csharp-3/ByteBank/obj/",
+        "outputPath": "/home/luciane/www/alura-/meus planos/dotnet-/csharp-orientacao-objetos/csharp-oo/ByteBank/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/luciane/.nuget/NuGet/NuGet.Config"
