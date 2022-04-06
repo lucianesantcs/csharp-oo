@@ -10,33 +10,15 @@ namespace ByteBank
             {
                 Metodo();
             }
-            // catch(NullReferenceException erro)
-            catch(NullReferenceException erro)
+            catch(DivideByZeroException e)
             {
-                Console.WriteLine(erro.Message);
+                Console.WriteLine(e.Message);
             }
-            // catch(DivideByZeroException erro)
-            // {
-            //     Console.WriteLine(erro.Message);
-            // }
+            catch(NullReferenceException e)
+            {
+                Console.WriteLine(e.Message);
+            }
         }
-
-        // tratamento específico
-        // static void Main(string[] args)
-        // {
-        //     try
-        //     {
-        //         Metodo();
-        //     }
-        //     catch(DivideByZeroException erro)
-        //     {
-        //             Console.WriteLine(erro.Message);
-        //     }
-        //     catch(Exception erro)
-        //     {
-        //         Console.WriteLine(erro.Message);
-        //     }
-        // }
 
         private static void Metodo()
         {
@@ -51,9 +33,15 @@ namespace ByteBank
 
         private static int Dividir(int numero, int divisor)
         {   
-            ContaCorrente conta = null;
-            // Console.WriteLine(conta.Saldo);
-            return numero / divisor;
+            try
+            {
+                return numero / divisor;
+            }
+            catch(DivideByZeroException)
+            {
+                Console.WriteLine("Exceção com numero " + numero + " e divisor " + divisor);
+                throw;
+            }
         }
     }
 }
