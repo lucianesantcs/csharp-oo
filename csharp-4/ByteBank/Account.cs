@@ -9,24 +9,35 @@ namespace ByteBank
         public static int TotalDeContasCriadas { get; private set; }
 
 
-        private int numeroAgencia;
-        public int NumeroAgencia
-        {
-            get
-            {
-                return numeroAgencia;
-            }
-            set
-            {
-                if (value <= 0)
-                {
-                    return;
-                }
+        // private int numeroAgencia;
+        public int NumeroAgencia { get; }
+        // public int NumeroAgencia
+        // {
+        //     get
+        //     {
+        //         return numeroAgencia;
+        //     }
+        //     set
+        //     {
+        //         if (value <= 0)
+        //         {
+        //             return;
+        //         }
 
-                numeroAgencia = value;
-            }
-        }
-        public int Numero { get; set; }
+        //         numeroAgencia = value;
+        //     }
+        // }
+
+        // private readonly int numeroConta;
+        // public int NumeroConta 
+        // {
+        //     get
+        //     {
+        //         return numeroConta;
+        //     }
+        // }
+
+        public int NumeroConta { get; }
 
         private double saldo = 100;
 
@@ -51,7 +62,8 @@ namespace ByteBank
         public ContaCorrente(int agencia, int numero)
         {
             NumeroAgencia = agencia;
-            Numero = numero;
+            // numeroConta = numero;
+            NumeroConta = numero;
 
             TaxaOpeacao = 30 / TotalDeContasCriadas;
             TotalDeContasCriadas++;
