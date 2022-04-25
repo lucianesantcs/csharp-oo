@@ -8,15 +8,15 @@ namespace ByteBank
         {
             try
             {
-                Metodo();
-            }
-            catch(DivideByZeroException e)
+                ContaCorrente conta = new ContaCorrente(10, 2);
+            } 
+            catch(ArgumentException ex) 
             {
-                Console.WriteLine(e.Message);
+                Console.WriteLine(ex.Message);
             }
-            catch(NullReferenceException e)
+            catch(Exception x)
             {
-                Console.WriteLine(e.Message);
+                Console.WriteLine(x.Message);
             }
         }
 
