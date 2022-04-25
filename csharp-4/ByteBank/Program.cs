@@ -8,11 +8,17 @@ namespace ByteBank
         {
             try
             {
-                ContaCorrente conta = new ContaCorrente(0, 2);
+                ContaCorrente conta = new ContaCorrente(4350, 2334);
+                ContaCorrente conta2 = new ContaCorrente(8350, 6334);
+                conta2.Transferir(-10, conta);
+
+                conta.Depositar(50);
+                // conta.Sacar(500);
+                conta.Sacar(-500);
             } 
-            catch(ArgumentException ex) 
+            catch (SaldoInsuficienteException ex)
             {
-                Console.WriteLine(ex.ParamName); // numero ou agencia, mesmo nome dos parâmetros da classe
+                Console.WriteLine(ex.Message);
             }
             catch(Exception x)
             {

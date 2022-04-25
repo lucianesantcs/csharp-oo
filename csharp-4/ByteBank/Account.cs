@@ -8,34 +8,7 @@ namespace ByteBank
         public Cliente Titular { get; set; }
         public static int TotalDeContasCriadas { get; private set; }
 
-
-        // private int numeroAgencia;
         public int NumeroAgencia { get; }
-        // public int NumeroAgencia
-        // {
-        //     get
-        //     {
-        //         return numeroAgencia;
-        //     }
-        //     set
-        //     {
-        //         if (value <= 0)
-        //         {
-        //             return;
-        //         }
-
-        //         numeroAgencia = value;
-        //     }
-        // }
-
-        // private readonly int numeroConta;
-        // public int NumeroConta 
-        // {
-        //     get
-        //     {
-        //         return numeroConta;
-        //     }
-        // }
 
         public int NumeroConta { get; }
 
@@ -72,23 +45,26 @@ namespace ByteBank
             }
 
             NumeroAgencia = agencia;
-            // numeroConta = numero;
             NumeroConta = numero;
 
-            TaxaOpeacao = 30 / TotalDeContasCriadas;
             TotalDeContasCriadas++;
+            TaxaOpeacao = 30 / TotalDeContasCriadas;
         }
 
 
-        public bool Sacar(double valor)
+        public void Sacar(double valor)
         {
+            if (valor < 0)
+            {
+                throw new ArgumentException("Valor inválido para o saque.", nameof(valor));
+            }
+
             if (this.saldo < valor)
             {
-                return false;
+                throw new SaldoInsuficienteException(Saldo, valor);
             }
 
             this.saldo -= valor;
-            return true;
         }
 
         public void Depositar(double valor)
@@ -97,16 +73,20 @@ namespace ByteBank
         }
 
 
-        public bool Transferir(double valor, ContaCorrente contaDestino)
+        public void Transferir(double valor, ContaCorrente contaDestino)
         {
-            if (this.saldo < valor)
+            if (valor < 0)
             {
-                return false;
+                throw new ArgumentException("Valor inválido para a transferência.", nameof(valor));
             }
 
+            // if (this.saldo < valor)
+            // {
+            //     return false;
+            // }
+            Sacar(valor);
             this.saldo -= valor;
             contaDestino.Depositar(valor);
-            return true;
         }
     }
 }
