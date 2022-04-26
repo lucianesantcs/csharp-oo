@@ -1,10 +1,36 @@
 ﻿using System;
+using System.IO;
 
 namespace ByteBank
 {
     class Program
     {
         static void Main(string[] args)
+        {
+            CarregarContas();
+        }
+
+        private static void CarregarContas()
+        {
+            LeitorDeArquivo leitor = null;
+            // LeitorDeArquivo leitor = new LeitorDeArquivo("contas.txt");
+            try
+            {
+                leitor = new LeitorDeArquivo("contas.txt");
+                leitor.LerProximaLinha();
+                leitor.LerProximaLinha();
+                // leitor.Fechar();
+            }
+            catch(IOException)
+            {
+                Console.WriteLine("IO");
+            }
+            finally
+            {
+                leitor.Fechar();
+            }
+        }
+        private static void TestaInnerException()
         {
             try
             {
@@ -23,7 +49,6 @@ namespace ByteBank
                 // Console.WriteLine(ex.InnerException.StackTrace);
             }
         }
-
         private static void Metodo()
         {
             TestaDivisao(0);
