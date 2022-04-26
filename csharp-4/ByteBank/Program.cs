@@ -10,19 +10,17 @@ namespace ByteBank
             {
                 ContaCorrente conta = new ContaCorrente(4350, 2334);
                 ContaCorrente conta2 = new ContaCorrente(8350, 6334);
-                conta2.Transferir(-10, conta);
-
-                conta.Depositar(50);
-                // conta.Sacar(500);
-                conta.Sacar(-500);
+                // conta.Transferir(10000, conta2);
+                conta.Sacar(10000);
             } 
-            catch (SaldoInsuficienteException ex)
+            // catch (Exception ex)
+            catch (OperacaoFinanceiraException ex)
             {
                 Console.WriteLine(ex.Message);
-            }
-            catch(Exception x)
-            {
-                Console.WriteLine(x.Message);
+                // Console.WriteLine(ex.StackTrace);
+                // Console.WriteLine("Info inner exception:");
+                // Console.WriteLine(ex.InnerException.Message);
+                // Console.WriteLine(ex.InnerException.StackTrace);
             }
         }
 
