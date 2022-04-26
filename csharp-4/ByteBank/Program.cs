@@ -7,28 +7,23 @@ namespace ByteBank
     {
         static void Main(string[] args)
         {
-            CarregarContas();
+            try 
+            {
+                CarregarContas();
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Ocorreu um erro!");
+            }
         }
 
         private static void CarregarContas()
         {
-            LeitorDeArquivo leitor = null;
-            // LeitorDeArquivo leitor = new LeitorDeArquivo("contas.txt");
-            try
+            using (LeitorDeArquivo leitor = new LeitorDeArquivo("conta.txt"))
             {
-                leitor = new LeitorDeArquivo("contas.txt");
                 leitor.LerProximaLinha();
-                leitor.LerProximaLinha();
-                // leitor.Fechar();
             }
-            catch(IOException)
-            {
-                Console.WriteLine("IO");
-            }
-            finally
-            {
-                leitor.Fechar();
-            }
+
         }
         private static void TestaInnerException()
         {
